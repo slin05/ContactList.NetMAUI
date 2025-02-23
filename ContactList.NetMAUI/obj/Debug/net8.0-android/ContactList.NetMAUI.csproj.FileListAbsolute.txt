@@ -1054,3 +1054,4 @@ C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\ne
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-android\ContactList.NetMAUI.sourcelink.json

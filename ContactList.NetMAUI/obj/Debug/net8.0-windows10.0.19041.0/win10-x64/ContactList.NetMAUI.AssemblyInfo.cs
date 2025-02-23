@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactList.NetMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c0044d0d45674703d2106ef31889eb905a545d68")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactList.NetMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactList.NetMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

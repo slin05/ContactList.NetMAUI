@@ -181,3 +181,4 @@ C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\ne
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pic2.scale-100.PNG
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pic3.scale-100.PNG
 C:\Users\yyyyy\source\repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pic4.scale-100.PNG
+C:\Users\yyyyy\Source\Repos\ContactList.NetMAUI\ContactList.NetMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ContactList.NetMAUI.sourcelink.json

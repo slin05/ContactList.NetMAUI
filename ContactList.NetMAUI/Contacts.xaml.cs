@@ -35,27 +35,27 @@ namespace ContactList.NetMAUI
         {
             var contacts = new List<Contact>
             {
-                // A group
+                // Names Starting with 'A'
                 new Contact { Name = "Alice Smith", Image = "pic1.png", Email = "alice@email.com", Phone = "123-456-7890", Description = "Software Developer" },
                 new Contact { Name = "Adam Johnson", Image = "pic2.png", Email = "adam@email.com", Phone = "234-567-8901", Description = "Project Manager" },
                 new Contact { Name = "Andrew Davis", Image = "pic3.png", Email = "andrew@email.com", Phone = "345-678-9012", Description = "Designer" },
                 
-                // B group
+                // Names Starting with 'B'
                 new Contact { Name = "Bob Wilson", Image = "pic4.png", Email = "bob@email.com", Phone = "456-789-0123", Description = "Engineer" },
                 new Contact { Name = "Bill Taylor", Image = "pic1.png", Email = "bill@email.com", Phone = "567-890-1234", Description = "Architect" },
                 new Contact { Name = "Brian Moore", Image = "pic2.png", Email = "brian@email.com", Phone = "678-901-2345", Description = "Manager" },
                 
-                // C group
+                // Names Starting with 'C'
                 new Contact { Name = "Carol White", Image = "pic3.png", Email = "carol@email.com", Phone = "789-012-3456", Description = "Developer" },
                 new Contact { Name = "Chris Brown", Image = "pic4.png", Email = "chris@email.com", Phone = "890-123-4567", Description = "Designer" },
                 new Contact { Name = "Catherine Lee", Image = "pic1.png", Email = "catherine@email.com", Phone = "901-234-5678", Description = "Engineer" },
                 
-                // D group
+                // Names Starting with 'D'
                 new Contact { Name = "David Clark", Image = "pic2.png", Email = "david@email.com", Phone = "012-345-6789", Description = "Manager" },
                 new Contact { Name = "Diana Wilson", Image = "pic3.png", Email = "diana@email.com", Phone = "123-456-7890", Description = "Developer" },
                 new Contact { Name = "Daniel Smith", Image = "pic4.png", Email = "daniel@email.com", Phone = "234-567-8901", Description = "Designer" },
                 
-                // E group
+                // Names Starting with 'E'
                 new Contact { Name = "Emma Davis", Image = "pic1.png", Email = "emma@email.com", Phone = "345-678-9012", Description = "Engineer" },
                 new Contact { Name = "Eric Johnson", Image = "pic2.png", Email = "eric@email.com", Phone = "456-789-0123", Description = "Manager" },
                 new Contact { Name = "Eva Brown", Image = "pic3.png", Email = "eva@email.com", Phone = "567-890-1234", Description = "Developer" }
